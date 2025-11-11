@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Code Updated on office Github Account.
+          Code Updated on office Github Account second Commit.
         </p>
         <a
           className="App-link"
